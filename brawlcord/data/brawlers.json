@@ -67,7 +67,7 @@
             "desc": "Nita recovers 500 health whenever her bear hits an enemy. When Nita deals damage, her bear regains 500 health."
         },
         "sp2": {
-            "name": "Happy Bear",
+            "name": "Hyper Bear",
             "desc": "Nita's bear attacks faster. Time between swipes is reduced by 60%."
         },
         "skins": {
